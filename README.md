@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Pramudi Samarawickrama.
+## Hi there, I'm Pramudi Samarawickrama👋
 
 - 🎓 IT Undergraduate at the **University of Moratuwa**
 - 👨‍💻 Enthusiastic about programming, with experience in MERN stack, React.js, and web development
